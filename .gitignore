@@ -1,0 +1,7 @@
+BUILD
+.mbed
+mbed-http
+mbed-os
+web_page
+mbed-os.lib
+mbed-http.lib
