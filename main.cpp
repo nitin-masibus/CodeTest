@@ -376,6 +376,8 @@ int8_t mount_file_system()
 
 int main() {
 
+    printf("new line added");
+
     printf(
         "Mbed OS version %d.%d.%d\n",
         MBED_MAJOR_VERSION,
